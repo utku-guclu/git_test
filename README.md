@@ -1,1 +1,1 @@
-This is Utku's new project!!
+This is Utku's first project!!
